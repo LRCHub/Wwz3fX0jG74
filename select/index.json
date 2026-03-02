@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢色のヒカリ",
+  "base_artist": "なみだ色の消しごむ",
+  "createdAt": "2026-03-02T14:04:33.807352Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢色のヒカリ",
+      "artist": "なみだ色の消しごむ",
+      "has_synced": false,
+      "path": "select/pl_01_夢色のヒカリ_なみだ色の消しごむ.txt"
+    }
+  ]
+}
